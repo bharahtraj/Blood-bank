@@ -1,10 +1,10 @@
 Thank you for downloading and using our projects!! Stay connected and Keep supporting us by sharing it with your friends,family and all who needs it. Happy Learning! :)
 
-**************************************[Genie Projects World]********************************************
+**************************************[BR Projects World]********************************************
 
 Project Name: Online Blood Bank System
 
-Developed By: GPW Team
+Developed By: BR Team
 
 Summary: This project was created to facilitate both blood receivers and Hospitals in times of any emergency needs. Here Hospitals can add available blood samples to their blood bank and blood receiving users can request for that blood sample thru this sytem.
  
@@ -23,4 +23,4 @@ IMPORTANT NOTE: Use only for Educational Purposes!
 
 ******************************************************************************************************
 
-Check our channel for more Projects!
+
